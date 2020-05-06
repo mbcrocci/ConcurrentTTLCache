@@ -1,0 +1,9 @@
+[package]
+authors = ["Maurizio Crocci <mbcrocci@gmail.com>"]
+edition = "2018"
+name = "concurrent_ttl_cache"
+version = "0.1.0"
+
+[dependencies]
+chrono = "0.4.11"
+log = "*"
